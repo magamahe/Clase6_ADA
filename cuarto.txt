@@ -1,1 +1,1 @@
-contenido de archivo
+Este es un archivo txt modificado
